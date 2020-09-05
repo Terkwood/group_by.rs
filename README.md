@@ -4,3 +4,6 @@ group_by function as [found on rust user forum](https://users.rust-lang.org/t/gr
 
 This work was contributed by [Alice](https://users.rust-lang.org/u/alice/summary) and as far as I'm concerned, it is their intellectual property.  As such I don't think it's ethical or legal for me to post a license, here.  Thank you very much for contributing this implementation.  I've found it useful in several projects.
 
+I have reached out to the author to let them know that this potentially copyrighted work is exposed in a public-facing repository.  We are more than happy to take this down if it's perceived as an aggressive or otherwise improper use of their material!  
+
+THANK YOU! 🌟
